@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Personal Projects!**
 - 🌱 I’m currently learning **Advanced Python and Javascript!**
-- 🤝 I’m looking for **Summer 2025 co-op/opportunities**
+- 🤝 I’m looking for **Winter 2026 co-op/opportunities**
 - 📫 How to reach me: [homithav@gmail.com](mailto:homithav@gmail.com)
 - 🌐 Connect with me: https://www.linkedin.com/in/homithav/
 - 😄 Pronouns: **She/Her**
