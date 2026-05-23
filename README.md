@@ -7,7 +7,7 @@
 - 🌐 Connect with me: https://www.linkedin.com/in/homithav/
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love photography!**
-- 👨‍💻 All of my projects are available at [https://github.com/homithav6/homithav6](https://github.com/homithav6/homithav6)
+- 👨‍💻 All of my projects are available at [https://github.com/homithav6/](https://github.com/homithav6/)
 
 
 
